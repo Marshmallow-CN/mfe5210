@@ -14,8 +14,6 @@ storage/tick_features/
 # Excel data (too large)
 factor/factor_excel/
 
-# Output / results
-factor/factor_result/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
