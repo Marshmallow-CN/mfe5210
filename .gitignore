@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (too large for GitHub)
+storage/*.parquet
+storage/tick_features/
+
+# Excel data (too large)
+factor/factor_excel/
+
+# Output / results
+factor/factor_result/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config with secrets
+config/settings.py
